@@ -351,7 +351,7 @@ var bar = 2;
 
 当使用 CLI 时，这个前缀将被自动添加。
 
-## JavaScript 混淆器选项
+## javascript-obfuscator-options
 
 以下是 JS 混淆器的可用选项:
 
